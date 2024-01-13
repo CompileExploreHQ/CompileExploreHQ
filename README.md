@@ -1,9 +1,7 @@
 # Parth Virani - Full Stack Developer
-## 📬 Contact
-
-- **Email:** pvirani6561@gmail.com
-- **Phone:** (+91) 8469450102
-- **LinkedIn:** [Parth Virani](LinkedIn_Profile_Link)
+- ✉️ **Email:** pvirani6561@gmail.com
+- ☎️ **Phone:** (+91) 8469450102
+- 💼 **LinkedIn:** [Parth Virani](LinkedIn_Profile_Link)
 
 ## 👨‍💻 Summary
 
