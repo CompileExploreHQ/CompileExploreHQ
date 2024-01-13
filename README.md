@@ -31,10 +31,17 @@ Welcome to my GitHub! I'm a highly motivated Full Stack Web Developer with over 
 
 ## 🎓 Education
 
-- **Bachelors of Engineering in Mechatronics**
-  - G.H. Patel College of Engineering & Technology
-  - Anand, Gujarat, India
-  - Graduated: August 2020
+- 🏫 **Bachelors of Engineering in Mechatronics**
+  - 📍 G.H. Patel College of Engineering & Technology, Anand, Gujarat, India
+  - 📅 Graduated: August 2020
+
+- 🏫 **Higher Secondary (12th Grade) - Science**
+  - 📍 Ankur Highschool, Surat, Gujarat, India
+  - 📅 Year of Completion: 2016
+
+- 🏫 **Secondary School (10th Grade)**
+  - 📍 P P Savani Vidhyabhawan, Surat, Gujarat, India
+  - 📅 Year of Completion: 2014
 
 ## 🌟 Let's Connect!
 
