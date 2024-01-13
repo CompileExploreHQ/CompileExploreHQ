@@ -1,7 +1,8 @@
 # Parth Virani - Full Stack Developer
 
+
 <div align="center">
-  <img src="[path-to-your-profile-image](https://avatars.githubusercontent.com/u/135049285)" alt="Profile Image">
+  ![IMG20230206184032 (1)](https://github.com/iInvanto/iInvanto/assets/135049285/b7699733-e846-48e5-a8b3-722bb49ab935)
 </div>
 
 ## 📬 Contact
