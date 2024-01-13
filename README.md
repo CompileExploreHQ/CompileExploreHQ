@@ -1,7 +1,7 @@
 # Parth Virani - Full Stack Developer
 
 <div align="center">
-  <img src="[path-to-your-profile-image](https://avatars.githubusercontent.com/u/135049285?s=400&u=718880f37b64fabc2f5806df228cc59d624812da&v=4)" alt="Profile Image">
+  <img src="[path-to-your-profile-image](https://avatars.githubusercontent.com/u/135049285)" alt="Profile Image">
 </div>
 
 ## 📬 Contact
