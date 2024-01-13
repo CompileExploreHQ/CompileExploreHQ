@@ -1,5 +1,4 @@
 # Parth Virani - Full Stack Developer
-
 ## 📬 Contact
 
 - **Email:** pvirani6561@gmail.com
