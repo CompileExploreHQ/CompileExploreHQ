@@ -1,5 +1,4 @@
-# Parth Virani - Full Stack Developer  ![image-modified](https://github.com/iInvanto/iInvanto/assets/135049285/270c68fb-9ee9-45a6-af07-201c45604292)
-
+# Parth Virani - Full Stack Developer
 
 ## 📬 Contact
 
