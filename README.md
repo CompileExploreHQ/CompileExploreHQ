@@ -1,27 +1,21 @@
-# Parth Virani - Full Stack Developer
-- ✉️ **Email:** pvirani6561@gmail.com
-- ☎️ **Phone:** (+91) 8469450102
-- 💼 **LinkedIn:** [Parth Virani](LinkedIn_Profile_Link)
+# 👋 Hello, I'm Parth Virani - Full Stack Developer
 
-## 👨‍💻 Summary
+🌐 [LinkedIn](https://www.linkedin.com/in/parth-virani-808bb5184) | 📧 pvirani6561@gmail.com | 📱 (+91) 8469450102
 
-Highly skilled and motivated Full Stack Web Developer with 3+ years of experience in web development and a strong background in problem-solving. Adept at designing and implementing innovative web solutions.
+Welcome to my GitHub! I'm a highly motivated Full Stack Web Developer with over 3 years of experience in crafting innovative web solutions. My expertise lies in developing robust back-end systems, designing responsive front-end interfaces, and ensuring the seamless integration of applications.
 
 ## 💼 Professional Experience
 
 ### Full Stack Developer @ Skyline Infosys (April 2022 - Present)
-
 - Collaborated with the product management team to define project requirements, prioritize tasks, and ensure timely delivery of features.
-- Implemented RESTful APIs using Node.js and Express.js, improving application performance and scalability.
-- Implemented authentication using OAuth 2.0 to enhance user registration and login processes.
+- Implemented RESTful APIs using Node.js and Express.js, enhancing application performance and scalability.
+- Introduced OAuth 2.0 for improved user registration and login processes.
 - Implemented automated testing using Jest, resulting in a 20% reduction in bugs.
-- Participated in daily stand-up meetings and sprint planning as part of an Agile development team.
-- Conducted code reviews and mentored junior developers, enhancing the overall team’s coding standards and skills.
+- Actively participated in Agile development, conducting code reviews, and mentoring junior developers.
 
 ### Full Stack Developer @ Atreyo Research & Development (Feb 2020 - April 2022)
-
-- Designed and developed a real-time Street Light IoT dashboard using React to implement intricate IoT functionalities.
-- Utilized Java and Spring Boot to develop a RESTful API and also implemented a dummy backend using Node.js.
+- Designed and developed a real-time Street Light IoT dashboard using React, showcasing intricate IoT functionalities.
+- Utilized Java and Spring Boot to create a RESTful API and implemented a dummy backend using Node.js.
 
 ## 🚀 Skills
 
@@ -35,6 +29,17 @@ Highly skilled and motivated Full Stack Web Developer with 3+ years of experienc
 - **Development Platform:** Windows & Linux
 - **Agile and Scrum methodologies**
 
+## 🌐 Projects
+
+### Samay - Workforce Management System
+Developed a responsive system using React, Node.js, and MongoDB. Implemented user authentication, Clock in/out, and Leave management functionality.
+
+### Rooster - Employee Scheduling System
+Implemented a scheduling and customization system, enabling managers to create tailored work schedules for employees with consideration for factors like availability, skill sets, and labor laws.
+
+### Skyline Infosys Website
+Created a single-page website for the company, designing custom components and optimizing performance.
+
 ## 🎓 Education
 
 - **Bachelors of Engineering in Mechatronics**
@@ -42,22 +47,6 @@ Highly skilled and motivated Full Stack Web Developer with 3+ years of experienc
   - Anand, Gujarat, India
   - Graduated: August 2020
 
-## 🚀 Projects
+## 🌟 Let's Connect!
 
-1. **Samay - Workforce Management System**
-   - Developed a responsive system using React, Node.js, and MongoDB.
-   - Implemented user authentication, Clock in/out, and Leave management functionality.
-
-2. **Rooster - Employee Scheduling System**
-   - Implemented a scheduling and customization system.
-   - Enabled managers to create and tailor work schedules for employees with consideration for factors like availability, skill sets, and labor laws.
-
-3. **Skyline Infosys Website**
-   - Created a single-page website for the company.
-   - Designed custom components and optimized performance.
-
-## 🌐 Languages
-
-- **English:** Professional
-- **Hindi:** Fluent
-- **Gujarati:** Fluent
+I'm passionate about creating impactful web applications and contributing to the developer community. Feel free to explore my projects, and don't hesitate to reach out for collaboration, discussions, or any exciting opportunities!
