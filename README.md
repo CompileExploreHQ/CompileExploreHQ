@@ -29,17 +29,6 @@ Welcome to my GitHub! I'm a highly motivated Full Stack Web Developer with over 
 - **Development Platform:** Windows & Linux
 - **Agile and Scrum methodologies**
 
-## 🌐 Projects
-
-### Samay - Workforce Management System
-Developed a responsive system using React, Node.js, and MongoDB. Implemented user authentication, Clock in/out, and Leave management functionality.
-
-### Rooster - Employee Scheduling System
-Implemented a scheduling and customization system, enabling managers to create tailored work schedules for employees with consideration for factors like availability, skill sets, and labor laws.
-
-### Skyline Infosys Website
-Created a single-page website for the company, designing custom components and optimizing performance.
-
 ## 🎓 Education
 
 - **Bachelors of Engineering in Mechatronics**
