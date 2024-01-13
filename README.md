@@ -1,8 +1,6 @@
 # Parth Virani - Full Stack Developer
 <div align="center">
-  <div style="float: right; margin-left: 20px; border-radius: 50%; overflow: hidden; width: 150px;">
-    <img src="https://github.com/iInvanto/iInvanto/assets/135049285/a67882a4-11c4-497d-82e8-7efedd3ac2d1" alt="Profile Image">
-  </div>
+  <img src="https://github.com/iInvanto/iInvanto/assets/135049285/a67882a4-11c4-497d-82e8-7efedd3ac2d1" alt="Profile Image" style="float: right; margin-left: 20px; border-radius: 50%; overflow: hidden;">
 </div>
 
 ## 📬 Contact
