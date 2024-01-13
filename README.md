@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  ![IMG20230206184032 (1)](https://github.com/iInvanto/iInvanto/assets/135049285/b7699733-e846-48e5-a8b3-722bb49ab935)
+  <img src="https://github.com/iInvanto/iInvanto/assets/135049285/b7699733-e846-48e5-a8b3-722bb49ab935" alt="Profile Image">
 </div>
 
 ## 📬 Contact
