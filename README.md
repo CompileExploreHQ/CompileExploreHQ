@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a highly motivated Full Stack Web Developer with over 
 - Implemented automated testing using Jest, resulting in a 20% reduction in bugs.
 - Actively participated in Agile development, conducting code reviews, and mentoring junior developers.
 
-### Full Stack Developer @ Atreyo Research & Development (Feb 2020 - March 2022)
+### Junior Software Engineer @ Atreyo Research & Development (Feb 2020 - March 2022)
 - Designed and developed a real-time Street Light IoT dashboard using React, showcasing intricate IoT functionalities.
 - Utilized Java and Spring Boot to create a RESTful API and implemented a dummy backend using Node.js.
 
