@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Parth Virani - Full Stack Developer
+# 👋 Hello, I'm Parth Virani - Software Developer
 
 🌐 [LinkedIn](https://www.linkedin.com/in/parth-virani-808bb5184) | 📧 pvirani6561@gmail.com | 📱 (+91) 8469450102
 
-Welcome to my GitHub! I'm a highly motivated Full Stack Web Developer with over 4+ years of experience in crafting innovative web solutions. My expertise lies in developing robust back-end systems, designing responsive front-end interfaces, and ensuring the seamless integration of applications.
+Welcome to my GitHub! I'm a highly motivated Software Developer with over 3+ years of experience in crafting innovative web solutions. My expertise lies in developing robust back-end systems, designing responsive front-end interfaces, and ensuring the seamless integration of applications.
 
 ## 💼 Professional Experience
 
-### Full Stack Developer @ Skyline Infosys (April 2022 - Present)
+### Software Developer @ Skyline Infosys (April 2022 - Present)
 - Collaborated with the product management team to define project requirements, prioritize tasks, and ensure timely delivery of features.
 - Implemented RESTful APIs using Node.js and Express.js, enhancing application performance and scalability.
 - Introduced OAuth 2.0 for improved user registration and login processes.
