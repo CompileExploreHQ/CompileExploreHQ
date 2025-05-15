@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a highly motivated Software Developer with over 4+ yea
 
 ## 💼 Professional Experience
 
-### Software Developer @ Skyline Infosys (April 2022 - Present)
+### Full Stack Engineer @ Skyline Infosys (April 2022 - Present)
 - Collaborated with the product management team to define project requirements, prioritize tasks, and ensure timely delivery of features.
 - Implemented RESTful APIs using Node.js and Express.js, enhancing application performance and scalability.
 - Introduced OAuth 2.0 for improved user registration and login processes.
