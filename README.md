@@ -2,7 +2,7 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/parth-virani-808bb5184) | 📧 pvirani6561@gmail.com | 📱 (+91) 8469450102
 
-Welcome to my GitHub! I'm a highly motivated Software Developer with over 3+ years of experience in crafting innovative web solutions. My expertise lies in developing robust back-end systems, designing responsive front-end interfaces, and ensuring the seamless integration of applications.
+Welcome to my GitHub! I'm a highly motivated Software Developer with over 4+ years of experience in crafting innovative web solutions. My expertise lies in developing robust back-end systems, designing responsive front-end interfaces, and ensuring the seamless integration of applications.
 
 ## 💼 Professional Experience
 
@@ -20,9 +20,9 @@ Welcome to my GitHub! I'm a highly motivated Software Developer with over 3+ yea
 ## 🚀 Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Java, Kotlin, Python
-- **Front-End Technologies:** ReactJs, Formik, React Query, React Table, MUI
+- **Front-End Technologies:** ReactJs, Formik, React Query, React Table, MUI, Redux
 - **Back-End Technologies:** Node.js, Express.js, Nest.js, Spring Boot
-- **Database Management:** PostgreSQL, MySQL, MongoDB
+- **Database Management:** PostgreSQL, MySQL, MongoDB, Redis
 - **Version Control:** Git, GitHub, BitBucket
 - **Testing Framework:** Jest
 - **Automation Tool:** Selenium
