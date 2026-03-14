@@ -32,7 +32,7 @@ I am a **Senior Software Engineer** with over 5 years of experience in building 
 ---
 
 ### 📈 GitHub Streak
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileExploreHQ&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -117,7 +117,7 @@ Real-time platform supporting conveyancing workflows.
 
 ---
 
-## ATRA-RMS (Remote Management System)
+#### ATRA-RMS (Remote Management System)
 
 IoT device management and monitoring platform.
 
