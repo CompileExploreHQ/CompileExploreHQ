@@ -3,9 +3,6 @@
 
 <p align="left">
   <a href="https://github.com/CompileExploreHQ">
-    <img src="https://github-readme-stats.vercel.app/api?username=CompileExploreHQ&show_icons=true&theme=radical" alt="Parth's GitHub Stats" />
-  </a>
-  <a href="https://github.com/CompileExploreHQ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileExploreHQ&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
@@ -43,27 +40,91 @@ I am a **Senior Software Engineer** with over 5 years of experience in building 
 
 ### 💼 Professional Journey
 
-#### **Senior Software Engineer** @ Bytes Technolab
-*March 2025 – Present*
-- Architecting **Microservices** with NestJS, PostgreSQL, and Redis.
-- Optimized REST APIs for thousands of daily requests.
-- Implemented CI/CD pipelines via GitHub Actions and Jenkins.
+#### Software Engineer  
+**Bytes Technolab Private Limited — Ahmedabad, India**  
+March 2025 – Present
 
-#### **Full Stack Engineer** @ Skyline Infosys
-*April 2022 – February 2025*
-- Scaled enterprise applications using Node.js and TypeScript.
-- Reduced production bugs by implementing comprehensive Jest testing.
+- Architecting and developing scalable backend systems using **NestJS, PostgreSQL, MongoDB, and Redis** within a **microservices architecture**.
+- Designing high-performance REST APIs supporting **thousands of daily requests** with optimized database queries and caching strategies.
+- Implementing **Redis-based caching and API rate limiting** to improve response times and system stability.
+- Developing secure authentication and authorization systems using **OAuth2 and JWT**.
+- Participating in **system design discussions**, defining service boundaries, and improving architecture scalability.
+- Implementing CI/CD pipelines using **GitHub Actions and Jenkins** for automated builds and deployments.
+- Containerizing services with **Docker** and supporting cloud deployments on **AWS infrastructure**.
+- Conducting code reviews and mentoring junior engineers to improve code quality and maintainability.
 
-#### **Junior Software Engineer** @ Atreyo R&D
-*Feb 2021 – March 2022*
-- Managed **10,000+ IoT devices** with real-time dashboards and Java Spring Boot backends.
+---
+
+#### Full Stack Engineer  
+**Skyline Infosys — Surat, India**  
+April 2022 – February 2025
+
+- Built scalable REST APIs using **Node.js, Express.js, and TypeScript** for enterprise-grade web applications.
+- Developed secure authentication systems using **OAuth2 and token-based authentication**.
+- Implemented automated testing using **Jest**, reducing production bugs and improving code reliability.
+- Designed database schemas and optimized queries across **PostgreSQL and MongoDB**.
+- Implemented **Redis caching strategies** to reduce API latency and improve application performance.
+- Collaborated with product teams to define technical requirements and deliver features on schedule.
+- Participated in Agile development cycles including **sprint planning, standups, and retrospectives**.
+- Mentored junior developers and conducted technical code reviews.
+
+---
+
+#### Junior Software Engineer  
+**Atreyo Research & Development — Ahmedabad, India**  
+Feb 2021 – March 2022
+
+- Developed a **real-time IoT device monitoring dashboard** using React for large-scale device management.
+- Built backend services using **Java Spring Boot** and Node.js.
+- Designed APIs to support **real-time monitoring and control of 10,000+ IoT devices**.
+- Implemented data pipelines and database models for device telemetry and status tracking.
+- Worked on debugging distributed services and improving system stability.
 
 ---
 
 ### 🌟 Featured Projects
-- **MazelTov.design**: A high-performance graphic editor backend built with NestJS.
-- **KGK Platform**: Microservices architecture for B2B/B2C diamond commerce.
-- **ATRA-RMS**: Large-scale IoT device management system.
+#### MazelTov.design
+
+Design platform similar to modern online graphic editors.
+
+- Designing and developing the **backend architecture using NestJS and MySQL**.
+- Implementing scalable APIs to support **canvas data, templates, and asset management**.
+- Optimizing backend services to deliver **low-latency responses for complex design metadata**.
+- Implementing caching strategies and scalable storage patterns for design assets.
+- Collaborating with frontend teams to support a responsive real-time design workflow.
+
+---
+
+#### KGK Platform
+
+Enterprise platform supporting both **B2B and B2C diamond commerce workflows**.
+
+- Designed microservices handling **product catalog, pricing, and business workflows**.
+- Managed multiple databases including **PostgreSQL, MongoDB, and Redis**.
+- Implemented scalable services for **pricing modules and dashboard analytics**.
+- Improved system performance using **query optimization and caching strategies**.
+
+---
+
+#### Realtime Conveyancer
+
+Real-time platform supporting conveyancing workflows.
+
+- Developed backend services and APIs supporting document and workflow management.
+- Implemented automated testing using **Jest** to ensure application reliability.
+- Built automation scripts using **Selenium** to validate critical application flows.
+- Designed database schemas to support real-time data operations.
+
+---
+
+## ATRA-RMS (Remote Management System)
+
+IoT device management and monitoring platform.
+
+- Developed frontend dashboard using **React.js** for monitoring device status and health.
+- Designed backend APIs for **device onboarding, telemetry ingestion, and real-time monitoring**.
+- Built infrastructure capable of handling **large-scale IoT device communication**.
+- Optimized performance for device monitoring and analytics dashboards.
 
 ---
 
